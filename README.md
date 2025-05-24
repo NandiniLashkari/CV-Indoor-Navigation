@@ -24,5 +24,4 @@ This project implements an indoor navigation system using ArUco markers, Dijkstr
 2. Run the Python script and input start/end rooms.
 3. Deploy the Unity project to an MR headset (e.g., Meta Quest).
 
-## License
-MIT License
+
